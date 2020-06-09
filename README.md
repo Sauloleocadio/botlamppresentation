@@ -1,4 +1,4 @@
-🚀 Technologies used.
+⚡ Technologies used. ⚡
 
 Node.js <br>
 ReactJS	<br>
@@ -7,7 +7,7 @@ ExpressJs <br>
 Styled-Components<br>
 Firebase<br>
 
-🚀 Link to the app on the Play Store.
+⚡ Link to the app on the Play Store. ⚡
 
 BOTLAMP <br>
 
